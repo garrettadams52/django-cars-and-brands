@@ -1,0 +1,15 @@
+- model: cars_and_brands.brand
+  pk: 1
+  fields:
+    name: Honda
+
+- model: cars_and_brands.brand
+  pk: 2
+  fields:
+    name: Ford
+
+- model: cars_and_brands.brand
+  pk: 3
+  fields:
+    name: Chevy
+   

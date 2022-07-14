@@ -1,0 +1,17 @@
+- model: cars_and_brands.car
+  pk: 1
+  fields:
+    name: Civic
+    brand: 1
+
+- model: cars_and_brands.car
+  pk: 2
+  fields:
+    name: Taurus
+    brand: 2
+
+- model: cars_and_brands.car
+  pk: 3
+  fields:
+    name: Spark
+    brand: 3
